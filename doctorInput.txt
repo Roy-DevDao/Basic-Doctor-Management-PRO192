@@ -1,0 +1,5 @@
+code=DE001,name=Phan Thanh Bao,specialization=Surgeon,availability=8
+code=DE002,name=Do Hung Cuong,specialization=Veterinarian,availability=7
+code=DE003,name=Nguyen Hai Nam,specialization=GP-general practitioner,availability=9
+code=DE004,name=Nguyen Thanh Cong,specialization=Dentist,availability=5
+code=DE005,name=Nguyen Viet Khoa,specialization=Surgeon,availability=4
